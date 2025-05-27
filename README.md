@@ -1,2 +1,2 @@
 # astralv1
-skibidi toilet
+skib
