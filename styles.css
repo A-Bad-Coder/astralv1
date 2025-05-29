@@ -95,3 +95,12 @@ a .link-button:hover {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+
+.button {
+    cursor: pointer;
+    background-color: #EEEEEE;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #002a50;
+}
+    
